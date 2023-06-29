@@ -1,0 +1,62 @@
+#ship {
+    background-color: #6c726b;
+    padding:13px 25px;
+    font-family: 'Patua One', cursive;
+    color: #ffffff;
+}
+ul#menu li {
+    float: left;
+    background-color: #3d8574;
+    padding: 14px 16px;
+}
+ul#menu li a {
+    text-decoration: none;
+}
+a:hover {
+    background: tomato;
+}
+ul li{
+    list-style: none;
+}
+#search {
+    margin-left: 450px;
+}
+#search input {
+    width: 500px;
+    height: 30px;
+}
+body{
+    font-family: 'Patua One', cursive;
+    font-size: 13px;
+}
+#header{
+    width: 960px;
+    margin: 0px auto;
+}
+
+#logo{
+    float: left;
+}
+.footer {
+    display: flex;
+    background: #3d8574;
+    color:  #ffffff;
+}
+.footer p:hover {
+    background: tomato;
+}
+.thongtin {
+    padding: 40px ;
+}
+.vechungtoi {
+    padding: 40px ;
+}
+.hotro {
+    padding: 40px ;
+}
+.phuongthuc {
+    padding: 40px ;
+}
+.footer h2 {
+    color: orange;
+}
